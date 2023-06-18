@@ -1,7 +1,7 @@
 <h1>Hi, I'm Smith! <br/> <a href="https://www.linkedin.com/in/smithp001/">Cybersecurity Enthusiast</a>
 <h2>👨‍💻CyberSecurity Projects:</h2>
 
-- <b>Analyzing Honeypot Attacks through Mapping with Azure Sentinel</b>
+- [Analyzing Honeypot Attacks through Mapping with Azure Sentinel](https://github.com/SmithCyberdelia/SmithCyberdelia/blob/main/Analyzing_Honeypot_Azure.pdf)
   
  <h2>📜Certifications</h2>
   
